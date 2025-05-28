@@ -1,0 +1,25 @@
+{
+  "name": "week-10-challenge-employee-tracker-sql-",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Crvaldez/Week-10-Challenge-Employee-Tracker-SQL-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Crvaldez/Week-10-Challenge-Employee-Tracker-SQL-/issues"
+  },
+  "homepage": "https://github.com/Crvaldez/Week-10-Challenge-Employee-Tracker-SQL-#readme",
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "inquirer": "^12.6.3",
+    "pg": "^8.16.0"
+  }
+}
